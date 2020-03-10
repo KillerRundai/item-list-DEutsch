@@ -1,97 +1,97 @@
 {
 	"incitems" : [
 	{
-		"abr": "Tornado",
+		"abr": "tornado",
 		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Tornados",
+		"abr": "tornados",
 		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "KlaresWetter",
+		"abr": "klareswetter",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "Regen",
+		"abr": "regen",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ErbrochenesRegen",
+		"abr": "erbrochenesregen",
 		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "NebligerRegen",
+		"abr": "nebligerregen",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "RegnerischesGewitter",
+		"abr": "regnerischesgewitter",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "TrockenesGewitter",
+		"abr": "trockenesgewitter",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "LeichterSchneefall",
+		"abr": "leichterschneefall",
 		"price": 350,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "StarkerSchneefall",
+		"abr": "starkerschneefall",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Nebel",
+		"abr": "nebel",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "Hitzewelle",
+		"abr": "hitzewelle",
 		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Blitzsturm",
+		"abr": "blitzsturm",
 		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Kältewelle",
+		"abr": "kaeltewelle",
 		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Sonnensturm",
+		"abr": "sonnensturm",
 		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Kurzschluss",
+		"abr": "kurzschluss",
 		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "GiftigerRegen",
+		"abr": "giftigerregen",
 		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "VulkanischerWinter",
+		"abr": "vulkanischerwinter",
 		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "Sonnenfinsternis",
+		"abr": "sonnenfinsternis",
 		"price": 450,
 		"karmatype": "Bad"
 	},
@@ -101,32 +101,32 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "fäulnis",
+		"abr": "faeulnis",
 		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "tierzähmen",
+		"abr": "tierzaehmen",
 		"price": 150,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "RettungskapselAbsturz",
+		"abr": "rettungskapselabsturz",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "TransportkapselAbsturz",
+		"abr": "transportkapselabsturz",
 		"price": 600,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "HändlerKarawane",
+		"abr": "haendlerkarawane",
 		"price": 275,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "GalaktischerHändler",
+		"abr": "galaktischerhaendler",
 		"price": 350,
 		"karmatype": "Good"
 	},
@@ -136,17 +136,17 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "ZufälligerSiedlerBeitritt",
+		"abr": "zufaelligersiedlerbeitritt",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "VerrücktesTier",
+		"abr": "verruecktestier",
 		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "PsychischeBeruhigung",
+		"abr": "psychischeberuhigung",
 		"price": 250,
 		"karmatype": "Good"
 	},
@@ -156,42 +156,42 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "HerdenBeitritt",
+		"abr": "herdenbeitritt",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "Nutztiere",
+		"abr": "nutztiere",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "WilderMensch",
+		"abr": "wildermensch",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "SelteneThrumbos",
+		"abr": "seltenethrumbos",
 		"price": 500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "SchiffsteilAbsturz",
+		"abr": "schiffsteilabsturz",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ReisendeGruppe",
+		"abr": "reisendegruppe",
 		"price": 80,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "BesucherGruppe",
+		"abr": "besuchergruppe",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ZufälligeFähigkeitVerbessern",
+		"abr": "zufaelligefaehigkeitverbessern",
 		"price": 200,
 		"karmatype": "Good"
 	},
@@ -201,7 +201,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "AlphaBiberSchwarm",
+		"abr": "alphabiberschwarm",
 		"price": 600,
 		"karmatype": "Bad"
 	},
@@ -211,87 +211,87 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "Überfall",
+		"abr": "ueberfall",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "LuftÜberfall",
+		"abr": "luftueberfall",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "SapperÜberfall",
+		"abr": "sapperueberfall",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Belagerung",
+		"abr": "belagerung",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "MechÜberfall",
+		"abr": "mechueberfall",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "KäferBefall",
+		"abr": "kaeferbefall",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "MenschjägerRudel",
+		"abr": "menschjaegerrudel",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Raubtiere",
+		"abr": "raubtiere",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "ZufälligeKrankheit",
+		"abr": "zufaelligekrankheit",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "SpezielleKrankheit",
+		"abr": "speziellekrankheit",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "ZufälligenSiederErwecken",
+		"abr": "zufaelligensiedererwecken",
 		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "SiedlerKaufen",
+		"abr": "siedlerkaufen",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "SpezifischeFähigkeitVerbessern",
+		"abr": "spezifischefaehigkeitverbessern",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "MerkmalHinzufügen",
+		"abr": "merkmalhinzufuegen",
 		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "MerkmalEntfernen",
+		"abr": "merkmalentfernen",
 		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "GeschlechtÄndern",
+		"abr": "geschlechtaendern",
 		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "Gefangener",
+		"abr": "gefangener",
 		"price": 800,
 		"karmatype": "Good"
 	},
@@ -301,7 +301,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ZufälligeInspration",
+		"abr": "zufaelligeinspration",
 		"price": 450,
 		"karmatype": "Good"
 	},
