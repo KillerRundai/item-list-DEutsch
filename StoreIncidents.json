@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "!colonist",
+		"price": 0,
+		"karmatype": "Gibt die Anzahl der Colonisten im chat aus"
+	},
+		{
 		"abr": "tornado",
 		"price": 800,
 		"karmatype": "Bad"
