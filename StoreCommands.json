@@ -1,0 +1,16 @@
+{
+	"incitems" : [
+	{
+		"abr": "!colonists",
+		"price": 0,
+		"karmatype": "Gibt die Anzahl der Colonisten im Chat aus"
+	},
+	{
+		"abr": "!faction",
+		"price": 0,
+		"karmatype": "Gibt die Fraktionsbeziehungen im Chat aus"
+	},
+
+	],
+	"total": 66
+}
