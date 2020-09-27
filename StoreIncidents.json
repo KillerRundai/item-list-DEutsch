@@ -211,12 +211,12 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "Raid",
+		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "DropRaid",
+		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -226,7 +226,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "Belagerung",
+		"abr": "belagerung",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
