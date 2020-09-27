@@ -1,5 +1,5 @@
 {
-	"incitems" : [
+	"items" : [
 	{
 		"abr": "!colonists",
 		"price": 0,
@@ -12,5 +12,5 @@
 	},
 
 	],
-	"total": 66
+	"total": 2
 }
