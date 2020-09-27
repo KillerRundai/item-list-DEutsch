@@ -287,14 +287,14 @@
                 item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
             };
 
-            var eventData = [];
-            $.each(data.incitems, function(index, value) {
+            var commandData = [];
+            $.each(data.commands, function(index, value) {
                 if (value["price"] > 0) {
                     eventData.push(value);
                 }
             });
 
-            commandList = new List('commands', options, eventData);
+            commandList = new List('commands', options);
         });    
 
         $("#item-price-min").keyup(function() {
